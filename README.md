@@ -1,14 +1,17 @@
-# qq_Browser
-
-
 ## qq浏览器主页--运用Jquery小插件stellar.js -----视差滚动插件
 
-此小插件灵活，方便，简单，实用性强，是页面看起来更酷！
-此项目需运用技术：1.页面布局（html+css）
-                                2.导航栏监听（即获取滚动条的位置）
-                                3.stellar.js的运用
-                                4.jquery运用（方便操作，渲染dom节点）
-stellar.js官网------http://markdalgleish.com/projects/stellar.js/docs/
+**收获：**
+
+	 
+
+ 1. 页面布局（html+css）
+ 2. 导航栏监听（即获取滚动条的位置）
+ 3. stellar.js的运用
+ 4. jquery运用（方便操作，渲染dom节点）
+
+> 此小插件灵活，方便，简单，实用性强，是页面看起来更酷！*
+> 
+> stellar.js官网------http://markdalgleish.com/projects/stellar.js/docs/
 
 完成日期：2018.11.17
 作者：周琛
